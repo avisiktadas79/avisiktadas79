@@ -18,5 +18,4 @@ B) Investor Metrics: Our investors want to know if Instagram is performing well 
 
 User Engagement: Are users still as active and post on Instagram or they are making fewer posts Your Task: Provide how many times does average user posts on Instagram. Also, provide the total number of photos on Instagram/total number of users
 
-Bots & Fake Accounts: The investors want to know if the platform is crowded with fake and dummy accounts Your Task: Provide data on users (bots) who have liked every single photo on the site (since any normal user would- 👋 Hi, I’m @avisiktadas79
-not be able to do this).
+Bots & Fake Accounts: The investors want to know if the platform is crowded with fake and dummy accounts Your Task: Provide data on users (bots) who have liked every single photo on the site.
